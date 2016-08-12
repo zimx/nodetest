@@ -1,2 +1,2 @@
 # nodetest
-learning node js
+node js & express / aexperimental playground
