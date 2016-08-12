@@ -26,9 +26,7 @@
   "bugs": {
     "url": "https://github.com/zimx/nodetest/issues"
   },
-  "homepage": "https://github.com/zimx/nodetest#readme"
-},
- "engines": {
-    "node": "6.3.1"
-  }
+ 
+}
+
 }
